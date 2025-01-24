@@ -1,5 +1,6 @@
-namespace ZooApp.Database
-{
+using ZooApp.Log;
+
+namespace ZooApp.Database{
     public class DataRetriever
     {
         private readonly List<string> _data;

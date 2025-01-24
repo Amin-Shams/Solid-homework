@@ -1,4 +1,4 @@
-namespace ZooApp
+namespace ZooApp.Animal
 {
     public interface IAnimal
     {

@@ -1,4 +1,7 @@
-namespace ZooApp
+using ZooApp.Log;
+using ZooApp.Database;
+
+namespace ZooApp.SalaryManagement
 {
     public class SalarySaver
     {

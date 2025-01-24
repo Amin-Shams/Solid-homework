@@ -1,3 +1,6 @@
+using ZooApp.Log;
+using ZooApp.Database;
+
 namespace ZooApp
 {
     public class User

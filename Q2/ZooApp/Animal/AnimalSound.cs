@@ -1,9 +1,9 @@
-namespace ZooApp
+namespace ZooApp.Animal
 {
     public class Zoo
     {
         private readonly List<IAnimal> _animals;
-        public Zoo(List<IAnimal>)
+        public Zoo(List<IAnimal> animals)
         {
             _animals = animals;
         }

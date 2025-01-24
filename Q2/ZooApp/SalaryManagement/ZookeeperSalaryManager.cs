@@ -1,4 +1,4 @@
-namespace ZooApp
+namespace ZooApp.SalaryManagement
 {
     public class ZookeeperSalaryManager
     {

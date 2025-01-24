@@ -1,4 +1,10 @@
-﻿namespace ZooApp
+﻿using System;
+using ZooApp.Animal;
+using ZooApp.Database;
+using ZooApp.SalaryManagement;
+using ZooApp.Log;
+
+namespace ZooApp
 {
     class Program
     {
