@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\bin\Debug\net9.0\ReviewManagement.exe
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\bin\Debug\net9.0\ReviewManagement.deps.json
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\bin\Debug\net9.0\ReviewManagement.runtimeconfig.json
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\bin\Debug\net9.0\ReviewManagement.dll
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\bin\Debug\net9.0\ReviewManagement.pdb
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\obj\Debug\net9.0\ReviewManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\obj\Debug\net9.0\ReviewManagement.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\obj\Debug\net9.0\ReviewManagement.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\obj\Debug\net9.0\ReviewManagement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\obj\Debug\net9.0\ReviewManagement.dll
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\obj\Debug\net9.0\refint\ReviewManagement.dll
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\obj\Debug\net9.0\ReviewManagement.pdb
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\obj\Debug\net9.0\ReviewManagement.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\solid\ReviewManagement\obj\Debug\net9.0\ref\ReviewManagement.dll
